@@ -12,9 +12,9 @@ source ./env/bin/activate
 ```sh
 ./run.sh
 ```
-http://localhost:8000/admin/
-username: admin
-password: password
+* http://localhost:8000/admin/
+* username: admin
+* password: password
 
 # Jupyter notebook
 
