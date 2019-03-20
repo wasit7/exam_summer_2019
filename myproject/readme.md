@@ -19,5 +19,5 @@ source ./env/bin/activate
 # Jupyter notebook
 
 ```sh
-./notebook
+./notebook.sh
 ```
